@@ -1610,6 +1610,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17307471904",
       "year": 2026
+    },
+    {
+      "date": "2026-02-13",
+      "hour": 17,
+      "name": "Marche dans l'apr\u00e8s-midi",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17425149538",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-13",
+      "hour": 8,
+      "name": "Marche le matin",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17425149562",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-14",
+      "hour": 17,
+      "name": "Marche dans l'apr\u00e8s-midi",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17425149379",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-14",
+      "hour": 7,
+      "name": "Marche le matin",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/17425149435",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-17",
+      "hour": 10,
+      "name": "Reprise post douleur genoux",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17425133888",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2825,6 +2870,15 @@
           "distance": 5057.6,
           "elevation_gain": 0.0,
           "moving_time": 1902.0
+        },
+        "2026-02-17": {
+          "activity_ids": [
+            "17425133888"
+          ],
+          "count": 1,
+          "distance": 4739.5,
+          "elevation_gain": 19.2,
+          "moving_time": 1845.0
         }
       },
       "Walk": {
@@ -2974,6 +3028,26 @@
           "distance": 2325.0,
           "elevation_gain": 9.8,
           "moving_time": 1784.0
+        },
+        "2026-02-13": {
+          "activity_ids": [
+            "17425149538",
+            "17425149562"
+          ],
+          "count": 2,
+          "distance": 4307.6,
+          "elevation_gain": 24.4,
+          "moving_time": 2861.0
+        },
+        "2026-02-14": {
+          "activity_ids": [
+            "17425149379",
+            "17425149435"
+          ],
+          "count": 2,
+          "distance": 3331.1000000000004,
+          "elevation_gain": 7.4,
+          "moving_time": 2431.0
         }
       },
       "WeightTraining": {
@@ -3099,7 +3173,7 @@
       }
     }
   },
-  "generated_at": "2026-02-16T21:29:24.315446+00:00",
+  "generated_at": "2026-02-17T10:19:12.540338+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
