@@ -1664,6 +1664,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17436604254",
       "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 17,
+      "name": "Reprise post douleur genoux 2 - 45\u2019",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17463328772",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2888,6 +2897,15 @@
           "distance": 4739.5,
           "elevation_gain": 19.2,
           "moving_time": 1845.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "17463328772"
+          ],
+          "count": 1,
+          "distance": 6544.0,
+          "elevation_gain": 32.4,
+          "moving_time": 2705.0
         }
       },
       "Walk": {
@@ -3191,7 +3209,7 @@
       }
     }
   },
-  "generated_at": "2026-02-20T15:31:24.144398+00:00",
+  "generated_at": "2026-02-21T15:17:38.873524+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
