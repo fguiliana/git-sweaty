@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-23T15:39:07.816488+00:00",
+  "generated_at": "2026-02-24T15:48:38.530167+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1123,6 +1123,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-02-24": {
+          "activity_ids": [
+            "17506518980"
+          ],
+          "count": 1,
+          "distance": 6137.3,
+          "elevation_gain": 238.2,
+          "moving_time": 7599.0
+        }
+      },
       "Run": {
         "2026-01-05": {
           "activity_ids": [
@@ -1231,6 +1242,17 @@
           "distance": 6544.0,
           "elevation_gain": 32.4,
           "moving_time": 2705.0
+        }
+      },
+      "Snowshoe": {
+        "2026-02-24": {
+          "activity_ids": [
+            "17505665604"
+          ],
+          "count": 1,
+          "distance": 6675.2,
+          "elevation_gain": 215.1,
+          "moving_time": 8521.0
         }
       },
       "Walk": {
@@ -1530,6 +1552,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6652.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17502333915"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6423.0
         }
       }
     }

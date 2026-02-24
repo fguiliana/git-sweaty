@@ -2416,5 +2416,44 @@
     "start_date_local": "2026-02-20T17:45:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-02-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17502333915",
+    "moving_time": 6423.0,
+    "name": "Yoga le midi",
+    "raw_activity_type": "Yoga",
+    "raw_type": "Yoga",
+    "start_date_local": "2026-02-23T12:01:12Z",
+    "type": "Yoga",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 6675.2,
+    "elevation_gain": 215.1,
+    "id": "17505665604",
+    "moving_time": 8521.0,
+    "name": "Sortie en raquettes le matin",
+    "raw_activity_type": "Snowshoe",
+    "raw_type": "Snowshoe",
+    "start_date_local": "2026-02-24T10:52:16Z",
+    "type": "Snowshoe",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-24",
+    "distance": 6137.3,
+    "elevation_gain": 238.2,
+    "id": "17506518980",
+    "moving_time": 7599.0,
+    "name": "Randonn\u00e9e le matin",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-02-24T10:54:56Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

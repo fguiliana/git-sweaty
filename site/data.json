@@ -1673,6 +1673,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17463328772",
       "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 12,
+      "name": "Yoga le midi",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17502333915",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 10,
+      "name": "Sortie en raquettes le matin",
+      "subtype": "Snowshoe",
+      "type": "Snowshoe",
+      "url": "https://www.strava.com/activities/17505665604",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 10,
+      "name": "Randonn\u00e9e le matin",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17506518980",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2798,6 +2825,17 @@
       }
     },
     "2026": {
+      "Hike": {
+        "2026-02-24": {
+          "activity_ids": [
+            "17506518980"
+          ],
+          "count": 1,
+          "distance": 6137.3,
+          "elevation_gain": 238.2,
+          "moving_time": 7599.0
+        }
+      },
       "Run": {
         "2026-01-05": {
           "activity_ids": [
@@ -2906,6 +2944,17 @@
           "distance": 6544.0,
           "elevation_gain": 32.4,
           "moving_time": 2705.0
+        }
+      },
+      "Snowshoe": {
+        "2026-02-24": {
+          "activity_ids": [
+            "17505665604"
+          ],
+          "count": 1,
+          "distance": 6675.2,
+          "elevation_gain": 215.1,
+          "moving_time": 8521.0
         }
       },
       "Walk": {
@@ -3205,11 +3254,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6652.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17502333915"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6423.0
         }
       }
     }
   },
-  "generated_at": "2026-02-23T15:39:07.825141+00:00",
+  "generated_at": "2026-02-24T15:48:38.538809+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
@@ -3223,6 +3281,10 @@
     "Run": {
       "accent": "#01cdfe",
       "label": "Run"
+    },
+    "Snowshoe": {
+      "accent": "#f15bb5",
+      "label": "Snowshoe"
     },
     "TrailRun": {
       "accent": "#00bbf9",
@@ -3248,6 +3310,7 @@
   "types": [
     "Hike",
     "Run",
+    "Snowshoe",
     "TrailRun",
     "Walk",
     "WeightTraining",
