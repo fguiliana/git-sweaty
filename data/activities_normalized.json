@@ -2455,5 +2455,18 @@
     "start_date_local": "2026-02-24T10:54:56Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-03-04",
+    "distance": 9935.4,
+    "elevation_gain": 30.4,
+    "id": "17604036870",
+    "moving_time": 3822.0,
+    "name": "Course \u00e0 pied en soir\u00e9e",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-04T18:09:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
