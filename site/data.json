@@ -1718,6 +1718,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17627285834",
       "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 8,
+      "name": "Reprise sortie longue - 55min",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17657062550",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 12,
+      "name": "Yoga le midi",
+      "subtype": "Yoga",
+      "type": "Yoga",
+      "url": "https://www.strava.com/activities/17659382026",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2980,6 +2998,15 @@
           "distance": 7576.5,
           "elevation_gain": 47.0,
           "moving_time": 3078.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17657062550"
+          ],
+          "count": 1,
+          "distance": 9193.4,
+          "elevation_gain": 39.4,
+          "moving_time": 3383.0
         }
       },
       "Snowshoe": {
@@ -3299,11 +3326,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 6423.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17659382026"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 6251.0
         }
       }
     }
   },
-  "generated_at": "2026-03-08T15:16:09.587530+00:00",
+  "generated_at": "2026-03-09T15:51:03.558779+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
