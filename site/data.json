@@ -1736,6 +1736,15 @@
       "type": "Yoga",
       "url": "https://www.strava.com/activities/17659382026",
       "year": 2026
+    },
+    {
+      "date": "2026-03-11",
+      "hour": 19,
+      "name": "Course \u00e0 pied en soir\u00e9e",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17688947479",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3007,6 +3016,15 @@
           "distance": 9193.4,
           "elevation_gain": 39.4,
           "moving_time": 3383.0
+        },
+        "2026-03-11": {
+          "activity_ids": [
+            "17688947479"
+          ],
+          "count": 1,
+          "distance": 5545.8,
+          "elevation_gain": 18.8,
+          "moving_time": 2073.0
         }
       },
       "Snowshoe": {
@@ -3339,7 +3357,7 @@
       }
     }
   },
-  "generated_at": "2026-03-11T15:40:01.218400+00:00",
+  "generated_at": "2026-03-12T15:51:05.783784+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
