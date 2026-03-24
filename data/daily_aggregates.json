@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-23T15:53:29.854144+00:00",
+  "generated_at": "2026-03-24T15:58:07.606335+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1278,6 +1278,15 @@
           "distance": 5545.8,
           "elevation_gain": 18.8,
           "moving_time": 2073.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17829001762"
+          ],
+          "count": 1,
+          "distance": 7610.7,
+          "elevation_gain": 44.8,
+          "moving_time": 2682.0
         }
       },
       "Snowshoe": {
@@ -1467,6 +1476,36 @@
           "distance": 1672.6,
           "elevation_gain": 8.4,
           "moving_time": 1116.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17829041933",
+            "17829041951"
+          ],
+          "count": 2,
+          "distance": 3225.7,
+          "elevation_gain": 0.0,
+          "moving_time": 1850.0
+        },
+        "2026-03-20": {
+          "activity_ids": [
+            "17829015862",
+            "17829016057"
+          ],
+          "count": 2,
+          "distance": 3182.2,
+          "elevation_gain": 2.2,
+          "moving_time": 1781.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17829015652",
+            "17829015857"
+          ],
+          "count": 2,
+          "distance": 3200.3,
+          "elevation_gain": 6.8,
+          "moving_time": 2256.0
         }
       },
       "WeightTraining": {
