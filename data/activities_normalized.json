@@ -2650,5 +2650,18 @@
     "start_date_local": "2026-04-11T17:48:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 3316.0,
+    "elevation_gain": 180.6,
+    "id": "18109470720",
+    "moving_time": 4702.0,
+    "name": "Randonn\u00e9e le matin",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2026-04-14T10:52:05Z",
+    "type": "Hike",
+    "year": 2026
   }
 ]

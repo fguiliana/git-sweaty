@@ -1835,6 +1835,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18068934570",
       "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 10,
+      "name": "Randonn\u00e9e le matin",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18109470720",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -2969,6 +2978,15 @@
           "distance": 6137.3,
           "elevation_gain": 238.2,
           "moving_time": 7599.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18109470720"
+          ],
+          "count": 1,
+          "distance": 3316.0,
+          "elevation_gain": 180.6,
+          "moving_time": 4702.0
         }
       },
       "Run": {
@@ -3513,7 +3531,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:02:58.948777+00:00",
+  "generated_at": "2026-04-15T16:00:27.658161+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
