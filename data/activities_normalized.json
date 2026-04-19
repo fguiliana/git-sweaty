@@ -2676,5 +2676,18 @@
     "start_date_local": "2026-04-16T19:48:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 8760.8,
+    "elevation_gain": 10.2,
+    "id": "18167654908",
+    "moving_time": 2957.0,
+    "name": "Foul\u00e9e du bord du Rh\u00f4ne 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T09:16:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
