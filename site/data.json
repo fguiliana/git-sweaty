@@ -1934,6 +1934,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18427356039",
       "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 18,
+      "name": "Sortie longue de 11\u00a0km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18466204717",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3349,6 +3358,15 @@
           "distance": 7207.0,
           "elevation_gain": 2.6,
           "moving_time": 2734.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18466204717"
+          ],
+          "count": 1,
+          "distance": 11051.7,
+          "elevation_gain": 51.2,
+          "moving_time": 3896.0
         }
       },
       "Snowshoe": {
@@ -3711,7 +3729,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T15:43:43.220329+00:00",
+  "generated_at": "2026-05-11T17:20:09.522676+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
