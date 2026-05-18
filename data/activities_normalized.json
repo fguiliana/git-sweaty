@@ -2832,5 +2832,18 @@
     "start_date_local": "2026-05-15T18:46:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-18",
+    "distance": 7029.6,
+    "elevation_gain": 66.2,
+    "id": "18552001094",
+    "moving_time": 2635.0,
+    "name": "Sortie longue de 7\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-18T10:19:26Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
