@@ -1970,6 +1970,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18552001094",
       "year": 2026
+    },
+    {
+      "date": "2026-05-20",
+      "hour": 19,
+      "name": "Course facile de 6\u00a0km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18585153326",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3421,6 +3430,15 @@
           "distance": 7029.6,
           "elevation_gain": 66.2,
           "moving_time": 2635.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18585153326"
+          ],
+          "count": 1,
+          "distance": 6017.0,
+          "elevation_gain": 12.1,
+          "moving_time": 2126.0
         }
       },
       "Snowshoe": {
@@ -3783,7 +3801,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:49:42.892701+00:00",
+  "generated_at": "2026-05-21T17:27:08.831265+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
