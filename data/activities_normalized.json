@@ -2858,5 +2858,18 @@
     "start_date_local": "2026-05-20T19:16:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 6194.9,
+    "elevation_gain": 10.3,
+    "id": "18610031284",
+    "moving_time": 1928.0,
+    "name": "Contre-la-montre de 5\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-22T17:25:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
