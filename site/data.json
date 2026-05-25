@@ -1988,6 +1988,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18610031284",
       "year": 2026
+    },
+    {
+      "date": "2026-05-25",
+      "hour": 9,
+      "name": "Sortie longue difficile de 12\u00a0km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18644338507",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3457,6 +3466,15 @@
           "distance": 6194.9,
           "elevation_gain": 10.3,
           "moving_time": 1928.0
+        },
+        "2026-05-25": {
+          "activity_ids": [
+            "18644338507"
+          ],
+          "count": 1,
+          "distance": 12035.8,
+          "elevation_gain": 57.7,
+          "moving_time": 4032.0
         }
       },
       "Snowshoe": {
@@ -3819,7 +3837,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T15:56:02.898424+00:00",
+  "generated_at": "2026-05-25T17:00:04.991079+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",

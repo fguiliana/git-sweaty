@@ -2871,5 +2871,18 @@
     "start_date_local": "2026-05-22T17:25:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-25",
+    "distance": 12035.8,
+    "elevation_gain": 57.7,
+    "id": "18644338507",
+    "moving_time": 4032.0,
+    "name": "Sortie longue difficile de 12\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-25T09:39:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
