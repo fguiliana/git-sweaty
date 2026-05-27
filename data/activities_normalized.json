@@ -2884,5 +2884,18 @@
     "start_date_local": "2026-05-25T09:39:17Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 7525.7,
+    "elevation_gain": 32.1,
+    "id": "18677243797",
+    "moving_time": 2615.0,
+    "name": "Course facile de 7,5\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T17:51:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
