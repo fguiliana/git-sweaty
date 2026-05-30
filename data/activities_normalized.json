@@ -2897,5 +2897,18 @@
     "start_date_local": "2026-05-27T17:51:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 7850.0,
+    "elevation_gain": 2.6,
+    "id": "18705823059",
+    "moving_time": 2831.0,
+    "name": "S\u00e9rie d\u00e9gressive",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T19:57:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
