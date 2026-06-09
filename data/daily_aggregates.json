@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T17:44:20.267065+00:00",
+  "generated_at": "2026-06-09T17:18:54.906940+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1512,6 +1512,15 @@
           "distance": 9348.7,
           "elevation_gain": 2.6,
           "moving_time": 3195.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18847641201"
+          ],
+          "count": 1,
+          "distance": 15018.4,
+          "elevation_gain": 61.5,
+          "moving_time": 5056.0
         }
       },
       "Snowshoe": {
