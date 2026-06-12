@@ -2051,6 +2051,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18866662081",
       "year": 2026
+    },
+    {
+      "date": "2026-06-12",
+      "hour": 17,
+      "name": "300\u00a0m variables",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18892468207",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3583,6 +3592,15 @@
           "distance": 6509.3,
           "elevation_gain": 12.1,
           "moving_time": 2321.0
+        },
+        "2026-06-12": {
+          "activity_ids": [
+            "18892468207"
+          ],
+          "count": 1,
+          "distance": 8334.1,
+          "elevation_gain": 2.6,
+          "moving_time": 2871.0
         }
       },
       "Snowshoe": {
@@ -3945,7 +3963,7 @@
       }
     }
   },
-  "generated_at": "2026-06-11T18:07:20.601213+00:00",
+  "generated_at": "2026-06-12T17:32:12.061886+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
