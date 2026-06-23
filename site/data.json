@@ -2087,6 +2087,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18986061703",
       "year": 2026
+    },
+    {
+      "date": "2026-06-23",
+      "hour": 9,
+      "name": "Sortie longue de 8\u00a0km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19032274507",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3655,6 +3664,15 @@
           "distance": 6145.5,
           "elevation_gain": 2.6,
           "moving_time": 2193.0
+        },
+        "2026-06-23": {
+          "activity_ids": [
+            "19032274507"
+          ],
+          "count": 1,
+          "distance": 8015.1,
+          "elevation_gain": 30.7,
+          "moving_time": 2637.0
         }
       },
       "Snowshoe": {
@@ -4017,7 +4035,7 @@
       }
     }
   },
-  "generated_at": "2026-06-22T18:41:16.095710+00:00",
+  "generated_at": "2026-06-23T17:11:12.277946+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
