@@ -3027,5 +3027,18 @@
     "start_date_local": "2026-06-23T09:20:44Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 7028.5,
+    "elevation_gain": 2.6,
+    "id": "19070032399",
+    "moving_time": 2363.0,
+    "name": "Km d'entra\u00eenement \u00e0 allure de course",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T07:13:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
