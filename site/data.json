@@ -2105,6 +2105,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19070032399",
       "year": 2026
+    },
+    {
+      "date": "2026-07-03",
+      "hour": 8,
+      "name": "Marche le matin",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/19221051009",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-07",
+      "hour": 23,
+      "name": "Course facile de 4,5\u00a0km",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19221002976",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3691,6 +3709,15 @@
           "distance": 7028.5,
           "elevation_gain": 2.6,
           "moving_time": 2363.0
+        },
+        "2026-07-07": {
+          "activity_ids": [
+            "19221002976"
+          ],
+          "count": 1,
+          "distance": 4198.5,
+          "elevation_gain": 8.7,
+          "moving_time": 1358.0
         }
       },
       "Snowshoe": {
@@ -3910,6 +3937,15 @@
           "distance": 3200.3,
           "elevation_gain": 6.8,
           "moving_time": 2256.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "19221051009"
+          ],
+          "count": 1,
+          "distance": 1627.7,
+          "elevation_gain": 6.0,
+          "moving_time": 1372.0
         }
       },
       "WeightTraining": {
@@ -4053,7 +4089,7 @@
       }
     }
   },
-  "generated_at": "2026-07-07T17:06:23.390958+00:00",
+  "generated_at": "2026-07-08T16:25:08.139424+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
