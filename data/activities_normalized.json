@@ -3066,5 +3066,18 @@
     "start_date_local": "2026-07-07T23:57:46Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-16",
+    "distance": 5401.1,
+    "elevation_gain": 17.5,
+    "id": "19341819320",
+    "moving_time": 1773.0,
+    "name": "Course De Nuit (Jeudi)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-16T22:07:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
