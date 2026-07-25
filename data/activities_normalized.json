@@ -3092,5 +3092,18 @@
     "start_date_local": "2026-07-22T19:16:16Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 6911.2,
+    "elevation_gain": 2.6,
+    "id": "19448956769",
+    "moving_time": 2294.0,
+    "name": "Tempo 2-1-1",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T19:36:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
