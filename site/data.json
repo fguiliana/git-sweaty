@@ -2177,6 +2177,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/19532407122",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 18,
+      "name": "8-4-2 rapides",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19545298025",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3817,6 +3826,15 @@
           "distance": 8009.5,
           "elevation_gain": 28.5,
           "moving_time": 2858.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19545298025"
+          ],
+          "count": 1,
+          "distance": 7114.8,
+          "elevation_gain": 5.7,
+          "moving_time": 2582.0
         }
       },
       "Snowshoe": {
@@ -4199,7 +4217,7 @@
       }
     }
   },
-  "generated_at": "2026-07-31T16:30:22.290743+00:00",
+  "generated_at": "2026-08-01T15:53:31.633954+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
