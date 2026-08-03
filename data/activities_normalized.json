@@ -3157,5 +3157,18 @@
     "start_date_local": "2026-07-31T18:38:51Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-03",
+    "distance": 10023.5,
+    "elevation_gain": 33.7,
+    "id": "19579497734",
+    "moving_time": 3285.0,
+    "name": "Sortie longue progressive de 10\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-03T09:39:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
