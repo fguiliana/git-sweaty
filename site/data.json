@@ -2195,6 +2195,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19579497734",
       "year": 2026
+    },
+    {
+      "date": "2026-08-04",
+      "hour": 20,
+      "name": "Soulev\u00e9 du haut du corps avec Runna \u2705",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19602252567",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4164,6 +4173,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 1502.0
+        },
+        "2026-08-04": {
+          "activity_ids": [
+            "19602252567"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2166.0
         }
       },
       "Workout": {
@@ -4235,7 +4253,7 @@
       }
     }
   },
-  "generated_at": "2026-08-04T16:46:22.881556+00:00",
+  "generated_at": "2026-08-05T16:26:37.313589+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",

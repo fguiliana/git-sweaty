@@ -3170,5 +3170,18 @@
     "start_date_local": "2026-08-03T09:39:58Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19602252567",
+    "moving_time": 2166.0,
+    "name": "Soulev\u00e9 du haut du corps avec Runna \u2705",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-08-04T20:35:39Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
