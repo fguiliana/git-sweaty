@@ -3222,5 +3222,18 @@
     "start_date_local": "2026-08-11T20:14:56Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-14",
+    "distance": 6520.0,
+    "elevation_gain": 40.5,
+    "id": "19735293322",
+    "moving_time": 2135.0,
+    "name": "Course facile de 6,5\u00a0km",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-14T09:05:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
