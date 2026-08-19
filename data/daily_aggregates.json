@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T15:22:03.339973+00:00",
+  "generated_at": "2026-08-19T15:21:49.970394+00:00",
   "years": {
     "2025": {
       "Hike": {
@@ -1143,6 +1143,17 @@
           "moving_time": 4702.0
         }
       },
+      "Ride": {
+        "2026-08-16": {
+          "activity_ids": [
+            "19808005788"
+          ],
+          "count": 1,
+          "distance": 12346.2,
+          "elevation_gain": 145.0,
+          "moving_time": 2689.0
+        }
+      },
       "Run": {
         "2026-01-05": {
           "activity_ids": [
@@ -1703,6 +1714,27 @@
           "distance": 6675.2,
           "elevation_gain": 215.1,
           "moving_time": 8521.0
+        }
+      },
+      "Surfing": {
+        "2026-08-15": {
+          "activity_ids": [
+            "19808010075"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2024.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19808004216",
+            "19808009757"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8582.0
         }
       },
       "Walk": {

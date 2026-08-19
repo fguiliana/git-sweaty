@@ -2240,6 +2240,42 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19735293322",
       "year": 2026
+    },
+    {
+      "date": "2026-08-15",
+      "hour": 16,
+      "name": "Surf dans l'apr\u00e8s-midi",
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "url": "https://www.strava.com/activities/19808010075",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 14,
+      "name": "Surf dans l'apr\u00e8s-midi",
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "url": "https://www.strava.com/activities/19808004216",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 10,
+      "name": "Sortie v\u00e9lo le matin",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/19808005788",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-16",
+      "hour": 7,
+      "name": "Surf le matin",
+      "subtype": "Surfing",
+      "type": "Surfing",
+      "url": "https://www.strava.com/activities/19808009757",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3385,6 +3421,17 @@
           "moving_time": 4702.0
         }
       },
+      "Ride": {
+        "2026-08-16": {
+          "activity_ids": [
+            "19808005788"
+          ],
+          "count": 1,
+          "distance": 12346.2,
+          "elevation_gain": 145.0,
+          "moving_time": 2689.0
+        }
+      },
       "Run": {
         "2026-01-05": {
           "activity_ids": [
@@ -3947,6 +3994,27 @@
           "moving_time": 8521.0
         }
       },
+      "Surfing": {
+        "2026-08-15": {
+          "activity_ids": [
+            "19808010075"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2024.0
+        },
+        "2026-08-16": {
+          "activity_ids": [
+            "19808004216",
+            "19808009757"
+          ],
+          "count": 2,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 8582.0
+        }
+      },
       "Walk": {
         "2026-01-06": {
           "activity_ids": [
@@ -4325,7 +4393,7 @@
       }
     }
   },
-  "generated_at": "2026-08-18T15:22:03.348399+00:00",
+  "generated_at": "2026-08-19T15:21:49.978393+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",
@@ -4336,6 +4404,10 @@
       "accent": "#d6ff6b",
       "label": "Hike"
     },
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
     "Run": {
       "accent": "#01cdfe",
       "label": "Run"
@@ -4343,6 +4415,10 @@
     "Snowshoe": {
       "accent": "#f15bb5",
       "label": "Snowshoe"
+    },
+    "Surfing": {
+      "accent": "#fb5607",
+      "label": "Surfing"
     },
     "TrailRun": {
       "accent": "#00bbf9",
@@ -4367,8 +4443,10 @@
   },
   "types": [
     "Hike",
+    "Ride",
     "Run",
     "Snowshoe",
+    "Surfing",
     "TrailRun",
     "Walk",
     "WeightTraining",
