@@ -2276,6 +2276,15 @@
       "type": "Surfing",
       "url": "https://www.strava.com/activities/19808009757",
       "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 17,
+      "name": "Course De L'apr\u00e8s-Midi (Vendredi)",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19938068995",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -3981,6 +3990,15 @@
           "distance": 6520.0,
           "elevation_gain": 40.5,
           "moving_time": 2135.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19938068995"
+          ],
+          "count": 1,
+          "distance": 6701.4,
+          "elevation_gain": 101.6,
+          "moving_time": 2249.0
         }
       },
       "Snowshoe": {
@@ -4393,7 +4411,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:10:04.337202+00:00",
+  "generated_at": "2026-08-28T23:47:00.430530+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/163753708",
   "repo": "fguiliana/git-sweaty",

@@ -3287,5 +3287,18 @@
     "start_date_local": "2026-08-16T07:38:21Z",
     "type": "Surfing",
     "year": 2026
+  },
+  {
+    "date": "2026-08-28",
+    "distance": 6701.4,
+    "elevation_gain": 101.6,
+    "id": "19938068995",
+    "moving_time": 2249.0,
+    "name": "Course De L'apr\u00e8s-Midi (Vendredi)",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-28T17:42:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
